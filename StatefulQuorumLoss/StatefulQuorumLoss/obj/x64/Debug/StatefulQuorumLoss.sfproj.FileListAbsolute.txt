@@ -1,0 +1,1 @@
+C:\Development\SF Labs\StatefulQuorumLoss\StatefulQuorumLoss\obj\x64\Debug\StatefulQuorumLoss.sfproj.CoreCompileInputs.cache

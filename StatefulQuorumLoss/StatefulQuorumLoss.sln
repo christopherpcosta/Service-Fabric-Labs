@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "StatefulQuorumLoss", "StatefulQuorumLoss\StatefulQuorumLoss.sfproj", "{A66AB3B4-4EE2-42C6-8FFB-B5F9293C469C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stateful", "Stateful\Stateful.csproj", "{58E01894-8038-45D1-8EE7-51A38AAE3B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66AB3B4-4EE2-42C6-8FFB-B5F9293C469C}.Debug|x64.ActiveCfg = Debug|x64
+		{A66AB3B4-4EE2-42C6-8FFB-B5F9293C469C}.Debug|x64.Build.0 = Debug|x64
+		{A66AB3B4-4EE2-42C6-8FFB-B5F9293C469C}.Debug|x64.Deploy.0 = Debug|x64
+		{A66AB3B4-4EE2-42C6-8FFB-B5F9293C469C}.Release|x64.ActiveCfg = Release|x64
+		{A66AB3B4-4EE2-42C6-8FFB-B5F9293C469C}.Release|x64.Build.0 = Release|x64
+		{A66AB3B4-4EE2-42C6-8FFB-B5F9293C469C}.Release|x64.Deploy.0 = Release|x64
+		{58E01894-8038-45D1-8EE7-51A38AAE3B9F}.Debug|x64.ActiveCfg = Debug|x64
+		{58E01894-8038-45D1-8EE7-51A38AAE3B9F}.Debug|x64.Build.0 = Debug|x64
+		{58E01894-8038-45D1-8EE7-51A38AAE3B9F}.Release|x64.ActiveCfg = Release|x64
+		{58E01894-8038-45D1-8EE7-51A38AAE3B9F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8A65F12-184E-4891-9BD6-FA96E2A03A30}
+	EndGlobalSection
+EndGlobal

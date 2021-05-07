@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ncT7MakiXZRLVWGK5iRCqzlHPF4st6DgK2trxTX4bTvTQPwXLrnf2Em3Vxf+5tEebV+FzAlF6fn5/sNj8nromg==",
+  "dgSpecHash": "n/gzIr/P0N5kwVrmyMuOX6jQLqgpJAWq0v//TAimzzrkMxTNS7woXfp+9xayt/KlTSbNckWfRFjyhsb2rRkPeQ==",
   "success": true,
-  "projectFilePath": "C:\\Development\\SF Labs\\LabHTTPSListener\\Listener\\Listener.csproj",
+  "projectFilePath": "C:\\Development\\Service-Fabric-Labs\\LabHTTPSListener\\Listener\\Listener.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chris\\.nuget\\packages\\libuv\\1.9.0\\libuv.1.9.0.nupkg.sha512",
     "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.hosting\\1.0.0\\microsoft.aspnetcore.hosting.1.0.0.nupkg.sha512",

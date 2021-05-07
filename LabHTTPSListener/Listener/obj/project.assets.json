@@ -8035,11 +8035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\SF Labs\\LabHTTPSListener\\Listener\\Listener.csproj",
+      "projectUniqueName": "C:\\Development\\Service-Fabric-Labs\\LabHTTPSListener\\Listener\\Listener.csproj",
       "projectName": "Listener",
-      "projectPath": "C:\\Development\\SF Labs\\LabHTTPSListener\\Listener\\Listener.csproj",
+      "projectPath": "C:\\Development\\Service-Fabric-Labs\\LabHTTPSListener\\Listener\\Listener.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\SF Labs\\LabHTTPSListener\\Listener\\obj\\",
+      "outputPath": "C:\\Development\\Service-Fabric-Labs\\LabHTTPSListener\\Listener\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
